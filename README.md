@@ -1,4 +1,4 @@
-# LeetCode_Week1
+## LeetCode_Week1
 
 # Problem: Two Sum
 Difficulty: Easy
